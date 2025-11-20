@@ -1,10 +1,11 @@
 {
   "categories": [
     {
-      "name": "Switcher",
+      "name": "Switcher V1.0",
       "links": [
         { "name": "Gameplay", "url": "https://www.dropbox.com/scl/fi/ls15lgaxju4122k3m9ik6/Timnas-Indonesia-Themes.zip?rlkey=au9kxelvbcj988ks9e4ykqab3&st=y4l0f9tg&dl=1", "version": "1.0" },
-        { "name": "dt18", "url": "https://example.com/switcher/stadiums/stadium_pack_v1.1.zip", "notes": "dt18" }
+        { "name": "dt18", "url": "https://example.com/switcher/stadiums/stadium_pack_v1.1.zip", "version": "1.0" }
+        { "name": "Theme", "url": "https://example.com/switcher/stadiums/stadium_pack_v1.1.zip", "version": "1.0" }
       ]
     }
   ]
